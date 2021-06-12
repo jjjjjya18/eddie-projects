@@ -1,2 +1,1 @@
-# eddie-projects
-All projects from Eddie Ji
+learning materials of Javascript
